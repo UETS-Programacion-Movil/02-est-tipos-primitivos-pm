@@ -16,6 +16,7 @@
 - [ ] Mi rostro y voz son claramente visibles y audibles.
 - [ ] Explico tipos primitivos, arrays y discriminated unions con ejemplos de mi código.
 - [ ] Muestro en terminal `pnpm test` y `pnpm run check` en verde.
+- [ ] Video con subtítulos/transcripción adjunta (accesibilidad).
 
 ---
 
